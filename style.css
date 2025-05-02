@@ -1,0 +1,31 @@
+body {
+	background-color: antiquewhite;
+	font-family: Roboto Condensed;
+	color: floralwhite;
+	text-align: center;
+	justify-content: center;
+}
+
+.container {
+	background-color: forestgreen;
+	padding: 10px;
+	margin: 4%;
+	border-radius: 10px;
+	box-shadow: -17px 22px 59px 0px rgba(0,0,0,0.75);
+	border: 20px double #084f00;
+}
+
+.card {
+	margin:2%;
+	background-color: antiquewhite;
+	padding: 10px;
+	width: 400px;
+	height: 400px;
+	text-align: center;
+	justify-content: center;
+}
+
+a {
+	text-decoration: none;
+	color: floralwhite;
+}
